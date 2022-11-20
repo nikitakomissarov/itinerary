@@ -1,0 +1,2 @@
+BOT_TOKEN = '1434022107:AAFFdZapuaYQY_GKhpC9bjq2TXkkjI5Opv0'
+admin_id = 279851705
